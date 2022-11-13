@@ -1,0 +1,38 @@
+
+header{
+    background-color: #c0c0c0;
+    background-image: url("..../image/flywheel.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 1%
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    background-color: rgba(218,234,213, 0.60);
+    color: #000000;
+    display: inline-block;
+    padding: 10px;
+    margin: 1%;
+    text-decoration: none;
+    border-radius: 5px;
+ }
+
+h1{
+    text-align: center;
+    background-color: rgba(45,45,45,0.1);
+    padding: 20px;
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    width: 300px;
+    border-radius: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px
